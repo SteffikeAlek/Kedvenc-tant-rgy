@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<body style="background-color:rgb(0, 0, 0);"></body>    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kedvenc tantárgy</title>
+</head>
+<body>
+
+<h1 style="color:purple;">Steffel ALexander</h1>
+
+<h3 style="color:white;"> Listák</h3>
+<p style="background-color:red;">A kedvenc tantárgyaim</p>
+<p style="color:rgb(72, 0, 255);">1. IKT PROJEKTMUNKA</p>
+<p style="color:rgb(72, 0, 255);">2. PROGTAMOZÁS</p>
+<p style="color:rgb(72, 0, 255);">3. Angol</p>
+
+<p style="background-color:rgb(0, 255, 30);">A kedvenc szabadidős tevékenységeim</p>
+<p style="color:blue;">-Számítógépezés</p>
+<p style="color:blue;">-HTML kód gyakarólás</p>
+<p style="color:blue;">-Dronet repültetni </p>
+    
+</body>
+</html>
